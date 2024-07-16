@@ -2,7 +2,7 @@
 <p></p>
 
 ## Contact Us 📞
-ProPump - Pump.fun Copytrader <b>Blazingly Fast⚡</b>. <br/>
+ProPump - Pump.fun Copytrader <b>Blazingly Fast⚡ Written in GOLANG</b>. <br/>
 [@discord](https://discord.gg/F7PTJuZJgt)
 
 ## Screenshots 💯
