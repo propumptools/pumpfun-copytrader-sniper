@@ -6,7 +6,7 @@ ProPump - Pump.fun Copytrader <b>Blazingly Fast⚡</b>. <br/>
 [@discord](https://discord.gg/F7PTJuZJgt)
 
 ## Screenshots 💯
-![image](https://github.com/RiadZX/pumpfun-copytrader-sniper/blob/af28f71bf4ae070db04c38722e70df2687c26a37/screenshot.png)
+![image](https://github.com/propumptools/pumpfun-copytrader-sniper/blob/main/screenshot.png)
 
 ## Features 🌀
 - 🔥 Infinite Tasks
